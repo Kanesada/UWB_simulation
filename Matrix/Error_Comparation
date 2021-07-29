@@ -1,0 +1,30 @@
+windows is 1:
+the square of kalman drifting error is :   3.187446723867032e-13
+the square of the LSTS drifting error is :   3.0273549762303307e-12
+
+
+
+
+windows is 50:
+the square of kalman drifting error is :   3.187446723867032e-13
+the square of the LSTS drifting error is :   3.1790768742985583e-13
+
+
+
+
+windows is 75:
+the square of kalman drifting error is :   3.187446723867032e-13
+the square of the LSTS drifting error is :   3.180291373336854e-13
+
+
+
+
+windows is : 0-75   100-200 225-255:
+the square of kalman drifting error is :   3.187446723867032e-13
+the square of the LSTS drifting error is :   3.180231649914358e-13
+
+
+
+windows is 256:
+the square of kalman drifting error is :   3.187446723867032e-13
+the square of the LSTS drifting error is :   1.090115701402673e-12
